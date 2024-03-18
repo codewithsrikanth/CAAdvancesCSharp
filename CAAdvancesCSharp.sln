@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassesAndMethods", "CAAdvancesCSharp\SealedClassesAndMethods.csproj", "{2896B272-34CE-4403-8D64-69131E4713D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SealedClassesAndMethods", "CAAdvancesCSharp\SealedClassesAndMethods.csproj", "{2896B272-34CE-4403-8D64-69131E4713D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{3067F120-962D-4754-900D-E7E5A3B6D310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{3067F120-962D-4754-900D-E7E5A3B6D310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{114F3FB2-FDAD-4F18-9920-D5C9D860595A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{114F3FB2-FDAD-4F18-9920-D5C9D860595A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{5B16B03D-12D7-4D8C-8660-808C7CBD16AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAGenerics", "CAGenerics\CAGenerics.csproj", "{BB6E7AEB-68E5-439A-8BD1-6A799B80D938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{114F3FB2-FDAD-4F18-9920-D5C9D860595A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{114F3FB2-FDAD-4F18-9920-D5C9D860595A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{114F3FB2-FDAD-4F18-9920-D5C9D860595A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B16B03D-12D7-4D8C-8660-808C7CBD16AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B16B03D-12D7-4D8C-8660-808C7CBD16AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B16B03D-12D7-4D8C-8660-808C7CBD16AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B16B03D-12D7-4D8C-8660-808C7CBD16AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6E7AEB-68E5-439A-8BD1-6A799B80D938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6E7AEB-68E5-439A-8BD1-6A799B80D938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6E7AEB-68E5-439A-8BD1-6A799B80D938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6E7AEB-68E5-439A-8BD1-6A799B80D938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
