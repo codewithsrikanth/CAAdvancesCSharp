@@ -17,8 +17,19 @@
     }
     class Example2
     {
+        //var empID = 101;
+        dynamic empName = "Srikanth";
         static void Main(string[] args)
         {
+
+            var x = 10;
+            //x = "Welcome";
+
+
+            dynamic y = 10;
+            y = "Welcome";
+
+
             Arthematic<int,int> obj1 = new Arthematic<int,int>();
             obj1.Add(100, 200);
             obj1.Sub(200, 100);
