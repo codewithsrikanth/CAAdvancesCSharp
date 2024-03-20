@@ -6,8 +6,6 @@ namespace CollectionsExamples
     {
         static void Main(string[] args)
         {
-
-            
             /*Stack s = new Stack();
             s.Push(100);s.Push("Srikanth");
             s.Push(1234.56);s.Push(3.14f);
